@@ -1,1 +1,1 @@
-alert("Jake is a big old ding dong!");
+alert("Danger! Danger!");
